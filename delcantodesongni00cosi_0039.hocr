@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delcantodesongni00cosi_0039.png"; bbox 0 0 1742 2995; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 96 1994 915 2301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 96 1994 915 2301">
+     <span class='ocr_line' id='line_1_1' title="bbox 96 1994 915 2132; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 96 2010 516 2124; x_wconf 20' lang='lat' dir='ltr'>wem&amp;</span> <span class='ocrx_word' id='word_1_2' title='bbox 559 1994 698 2132; x_wconf 66' lang='grc'>84</span> <span class='ocrx_word' id='word_1_3' title='bbox 719 2027 793 2127; x_wconf 59' lang='lat'>{5</span> <span class='ocrx_word' id='word_1_4' title='bbox 914 2016 915 2019; x_wconf 7' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 137 2187 792 2301; baseline -0.006 -32"><span class='ocrx_word' id='word_1_5' title='bbox 137 2231 143 2234; x_wconf 96' lang='grc'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 507 2187 672 2283; x_wconf 58' lang='lat' dir='ltr'>§u</span> <span class='ocrx_word' id='word_1_7' title='bbox 707 2190 792 2301; x_wconf 67' lang='grc'>15</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 121 2782 711 2842">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 121 2782 711 2842">
+     <span class='ocr_line' id='line_1_3' title="bbox 121 2782 711 2842; baseline 0.014 -8"><span class='ocrx_word' id='word_1_8' title='bbox 121 2782 711 2842; x_wconf 54' lang='grc' dir='ltr'>πειθλυιαεπνοεκτεκ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
